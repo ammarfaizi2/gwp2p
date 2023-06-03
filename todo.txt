@@ -1,0 +1,8 @@
+
+Server:
+ - Handle "connect" packet from client.
+ - Create client entry functions (create, delete, find, etc.).
+ - Create session handling mechanism.
+
+Client:
+ - Handle "connect" command.
